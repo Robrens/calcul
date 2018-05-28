@@ -1,0 +1,16 @@
+div {
+    width: 30%;
+    margin: auto;
+}
+
+input {
+    width: 25%;
+    height: 25%;
+    display: inline-block;
+}
+input[type="text"]{
+    width: 98%;
+}
+input[type="button"]:nth-child(15){
+width : 50%;
+}
